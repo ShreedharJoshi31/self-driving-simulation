@@ -1,5 +1,3 @@
-# self-driving-simulation
-
 # Self-Driving Racing Car Simulation using OpenAI Gym and Stable Baselines 3
 
 ## Overview
@@ -25,5 +23,4 @@ This repository contains a self-driving racing car simulation implemented using 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/ShreedharJoshi31/self-driving-simulation.git
